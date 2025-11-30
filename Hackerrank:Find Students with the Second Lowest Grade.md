@@ -43,22 +43,7 @@ for student in second_lowest_students:
 ```
 
 ## Output
-```
-Enter number of students: 5
-Enter student name: Harry
-Enter student grade: 37.2
-Enter student name: Berry
-Enter student grade: 37.2
-Enter student name: Tina
-Enter student grade: 37.3
-Enter student name: Akriti
-Enter student grade: 41
-Enter student name: Harsh
-Enter student grade: 39
-
-Students with the second lowest grade:
-Harsh
-```
+<img width="1185" height="438" alt="image" src="https://github.com/user-attachments/assets/b06a581d-fb6c-4dfe-b339-f7a53575ef28" />
 ## Result
-Hence Found Students with the Second Lowest Grade.
+Thus, the python program was exceuted successfully.
 
