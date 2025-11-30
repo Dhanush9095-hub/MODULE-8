@@ -31,9 +31,6 @@ else:
     print("The string does not end with a number.")
 ```
 ## Output
-```
-Enter a string: Hello123
-The string ends with a number.
-```
+<img width="441" height="204" alt="image" src="https://github.com/user-attachments/assets/44b61fa3-c3db-462b-bbab-28647b40316e" />
 ## Result
-Hence  Checked if a String Ends with a Numeric Digit.
+Thus the program has been successfully executed
