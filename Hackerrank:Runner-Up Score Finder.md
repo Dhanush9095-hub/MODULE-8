@@ -30,10 +30,8 @@ else:
 ```
 
 ## OUTPUT
-```
-Enter the number of participants: 5
-Enter the scores separated by space: 2 3 6 6 5
-Runner-up score: 5
-```
+<img width="1182" height="231" alt="image" src="https://github.com/user-attachments/assets/aaf9d468-f36d-447c-94b8-8bf9a1a4abe2" />
+
 ## RESULT
-Hence Found the Runner up score
+Thus, the python program was successfully exceuted.
+
