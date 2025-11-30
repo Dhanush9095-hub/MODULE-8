@@ -47,6 +47,7 @@ for student, total in total_marks.items():
 print(f"\nTopper: {topper} with {top_score} marks.")
 ```
 ## OUTPUT
-(https://github.com/user-attachments/assets/99c6d228-13f0-43c5-9975-b2794662579b)
+<img width="1183" height="190" alt="image" src="https://github.com/user-attachments/assets/ce008fcf-e6ef-4c87-a885-e5123f2a0f2a" />
+
 ## RESULT
-Thus, the program is executed successfully
+Hence Calculated total marks for students and find the topper.
