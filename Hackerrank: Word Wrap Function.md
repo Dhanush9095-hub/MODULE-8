@@ -41,12 +41,7 @@ print(result)
 ```
 
 ## Sample Output
-```
-This is a long 
-string that nee
-ds to be wrappe
-d after a certa
-in width.
-```
+<img width="1187" height="395" alt="image" src="https://github.com/user-attachments/assets/96768526-8020-4810-a903-3792aff58862" />
+
 ## Result
-Hence the string formatted with line breaks such that each line has **at most the given width**.
+Thus, the python program was successfully executed.
